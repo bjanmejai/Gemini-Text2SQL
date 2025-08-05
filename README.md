@@ -1,3 +1,6 @@
+![Gemini Text2SQL Logo](images/gemini_text2sql_logo.png)
+
+
 # Gemini-Text2SQL
 
 # Gemini Text2SQL
